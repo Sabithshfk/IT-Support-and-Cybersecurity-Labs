@@ -16,8 +16,3 @@
 
 ## Reflection
 Domain joining is a common enterprise support task. Understanding the relationship between DNS, Active Directory, and domain membership is important for infrastructure support roles.
-
-## Next Step
-- Continue Day 49.
-- Learn about Group Policy basics.
-- Keep applying for opportunities.
