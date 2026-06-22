@@ -16,7 +16,23 @@ This repository contains my IT Support, Infrastructure, and Cybersecurity learni
 
 I am an IT Systems Support Engineer with interests in Infrastructure Support, Cybersecurity, Networking, and Enterprise IT.
 
-## Repository Structure
+## Knowledge Areas
 
-Knowledge-Base/
-Career-related technical notes and troubleshooting guides.
+### Windows Administration
+- Active Directory
+- Group Policy
+- Domain Joining
+- Password Management
+
+### Networking
+- DNS
+- DHCP
+- Internet Troubleshooting
+
+### Infrastructure Support
+- PXE Boot
+- Projector Troubleshooting
+- Windows Update Troubleshooting
+
+### Interview Preparation
+- IT Support Interview Questions
